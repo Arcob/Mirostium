@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8541d3c95e5301e43a41dbaa89b86bea
+timeCreated: 1481706894
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - portalPrefab: {fileID: 1000012046461862, guid: 0ccc20892050eb0419e8a0b42a534cd7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

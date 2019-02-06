@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Test/Test1.unity
+  - enabled: 0
+    path: Assets/Scenes/Test/Test2.unity
+  - enabled: 0
+    path: Assets/Scenes/Test/Test3.unity
+  - enabled: 0
+    path: Assets/Scenes/Test/Test4.unity
+  - enabled: 0
+    path: Assets/Scenes/Test/Test5.unity
+  - enabled: 0
+    path: Assets/Scenes/Test/Test6.unity
+  - enabled: 0
+    path: Assets/Scenes/Test/PortalTest.unity
+  - enabled: 0
+    path: Assets/Scenes/Test/PortalTest1.unity
+  - enabled: 0
+    path: Assets/Scenes/Test/PortalTest2.unity
+  - enabled: 1
+    path: Assets/Scenes/Launch.unity
+  - enabled: 1
+    path: Assets/Scenes/Init.unity
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
